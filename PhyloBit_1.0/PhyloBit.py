@@ -221,3 +221,5 @@ if save_op == "y":
 	save_tree.write(output)
 	save_tree.close()
 	print("Tree Saved...")
+	
+# python PhyloBit.py <Aligned_Multi_Fasta_File>
