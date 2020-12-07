@@ -69,7 +69,7 @@ def about():
 
 
 
-    PhyloBit_GUI 1.2    
+    PhyloBit_Windows_1.0    
 
 
 
